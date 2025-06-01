@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jamie\\Documents\\Software Development\\GitHub Local Repositories\\civil3d\\ICMInterop\\ICMInterop.csproj",
-      "projectName": "ICMInterop",
-      "projectPath": "C:\\Users\\Jamie\\Documents\\Software Development\\GitHub Local Repositories\\civil3d\\ICMInterop\\ICMInterop.csproj",
+      "projectUniqueName": "C:\\Users\\Jamie\\Documents\\Software Development\\GitHub Local Repositories\\civil3d\\ICMInterop\\2DZones\\Civil3D.ICMInterop.2DZones.csproj",
+      "projectName": "Civil3D.ICMInterop.2DZones",
+      "projectPath": "C:\\Users\\Jamie\\Documents\\Software Development\\GitHub Local Repositories\\civil3d\\ICMInterop\\2DZones\\Civil3D.ICMInterop.2DZones.csproj",
       "packagesPath": "C:\\Users\\Jamie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jamie\\Documents\\Software Development\\GitHub Local Repositories\\civil3d\\ICMInterop\\obj\\",
+      "outputPath": "C:\\Users\\Jamie\\Documents\\Software Development\\GitHub Local Repositories\\civil3d\\ICMInterop\\2DZones\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ICMInterop.Domain
+namespace _2DZones.Domain
 {
     class Domain
     {
+
     }
 }
