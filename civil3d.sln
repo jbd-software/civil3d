@@ -5,7 +5,11 @@ VisualStudioVersion = 17.13.35828.75
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IMCInterop", "IMCInterop", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Civil3D.ICMInterop.2DZones", "ICMInterop\2DZones\Civil3D.ICMInterop.2DZones.csproj", "{F4113F4A-4D30-6B32-4FE9-FD4407F10E6A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Civil3D.ICMInterop.Zones2D", "ICMInterop\2DZones\Civil3D.ICMInterop.Zones2D.csproj", "{F4113F4A-4D30-6B32-4FE9-FD4407F10E6A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MicroPlugins", "MicroPlugins", "{5758852D-FD2C-4107-B6BE-3C965968B67B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Civil3D.MicroPlugins.ClassLibrary1", "MicroPlugins\Civil3D.MicroPlugins.ClassLibrary1\Civil3D.MicroPlugins.ClassLibrary1.csproj", "{BDDC5467-A1B6-49D5-BBDC-D2AB9A2DDCBC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{F4113F4A-4D30-6B32-4FE9-FD4407F10E6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4113F4A-4D30-6B32-4FE9-FD4407F10E6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4113F4A-4D30-6B32-4FE9-FD4407F10E6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDDC5467-A1B6-49D5-BBDC-D2AB9A2DDCBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDDC5467-A1B6-49D5-BBDC-D2AB9A2DDCBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDDC5467-A1B6-49D5-BBDC-D2AB9A2DDCBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDDC5467-A1B6-49D5-BBDC-D2AB9A2DDCBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{F4113F4A-4D30-6B32-4FE9-FD4407F10E6A} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{BDDC5467-A1B6-49D5-BBDC-D2AB9A2DDCBC} = {5758852D-FD2C-4107-B6BE-3C965968B67B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A6248C83-B6DF-4B38-AB02-0F701CFFF219}

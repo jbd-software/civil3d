@@ -6,7 +6,7 @@ using Autodesk.AutoCAD.Runtime;
 using ICMInterop.EntryPoints;
 using ICMInterop.Shared;
 
-namespace ICMInterop.Infrastructure;
+namespace Civil3D.ICMInterop.Zones2D.Infrastructure;
 
 public class AcadMessagePrinter : IMessagePrinter
 {

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JamieDonovan\\Documents\\_USQ\\civil3d\\ICMInterop\\2DZones\\Civil3D.ICMInterop.2DZones.csproj": {}
+    "C:\\Users\\JamieDonovan\\Documents\\_USQ\\civil3d\\ICMInterop\\2DZones\\Civil3D.ICMInterop.Zones2D.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JamieDonovan\\Documents\\_USQ\\civil3d\\ICMInterop\\2DZones\\Civil3D.ICMInterop.2DZones.csproj": {
+    "C:\\Users\\JamieDonovan\\Documents\\_USQ\\civil3d\\ICMInterop\\2DZones\\Civil3D.ICMInterop.Zones2D.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JamieDonovan\\Documents\\_USQ\\civil3d\\ICMInterop\\2DZones\\Civil3D.ICMInterop.2DZones.csproj",
-        "projectName": "Civil3D.ICMInterop.2DZones",
-        "projectPath": "C:\\Users\\JamieDonovan\\Documents\\_USQ\\civil3d\\ICMInterop\\2DZones\\Civil3D.ICMInterop.2DZones.csproj",
+        "projectUniqueName": "C:\\Users\\JamieDonovan\\Documents\\_USQ\\civil3d\\ICMInterop\\2DZones\\Civil3D.ICMInterop.Zones2D.csproj",
+        "projectName": "Civil3D.ICMInterop.Zones2D",
+        "projectPath": "C:\\Users\\JamieDonovan\\Documents\\_USQ\\civil3d\\ICMInterop\\2DZones\\Civil3D.ICMInterop.Zones2D.csproj",
         "packagesPath": "C:\\Users\\JamieDonovan\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\JamieDonovan\\Documents\\_USQ\\civil3d\\ICMInterop\\2DZones\\obj\\",
         "projectStyle": "PackageReference",
