@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jamie\\Documents\\Software Development\\GitHub Local Repositories\\civil3d\\",
+  "WorkspaceRootPath": "C:\\Users\\JamieDonovan\\source\\repos\\jbd-software\\civil3d\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4113F4A-4D30-6B32-4FE9-FD4407F10E6A}|ICMInterop\\2DZones\\Civil3D.ICMInterop.2DZones.csproj|c:\\users\\jamie\\documents\\software development\\github local repositories\\civil3d\\icminterop\\2dzones\\domain\\domain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4113F4A-4D30-6B32-4FE9-FD4407F10E6A}|ICMInterop\\2DZones\\Civil3D.ICMInterop.2DZones.csproj|c:\\users\\jamiedonovan\\source\\repos\\jbd-software\\civil3d\\icminterop\\2dzones\\domain\\domain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4113F4A-4D30-6B32-4FE9-FD4407F10E6A}|ICMInterop\\2DZones\\Civil3D.ICMInterop.2DZones.csproj|solutionrelative:icminterop\\2dzones\\domain\\domain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,22 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Domain.cs",
-              "DocumentMoniker": "C:\\Users\\Jamie\\Documents\\Software Development\\GitHub Local Repositories\\civil3d\\ICMInterop\\2DZones\\Domain\\Domain.cs",
+              "DocumentMoniker": "C:\\Users\\JamieDonovan\\source\\repos\\jbd-software\\civil3d\\ICMInterop\\2DZones\\Domain\\Domain.cs",
               "RelativeDocumentMoniker": "ICMInterop\\2DZones\\Domain\\Domain.cs",
-              "ToolTip": "C:\\Users\\Jamie\\Documents\\Software Development\\GitHub Local Repositories\\civil3d\\ICMInterop\\2DZones\\Domain\\Domain.cs",
+              "ToolTip": "C:\\Users\\JamieDonovan\\source\\repos\\jbd-software\\civil3d\\ICMInterop\\2DZones\\Domain\\Domain.cs",
               "RelativeToolTip": "ICMInterop\\2DZones\\Domain\\Domain.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-01T00:03:55.399Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
